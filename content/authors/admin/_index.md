@@ -70,8 +70,4 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+董理，1990年生。2012年6月于重庆大学软件学院获得软件工程专业工学学士学位；2014年12月于澳门大学科技学院获得软件工程专业理学硕士学位；2018年9月于澳门大学科技学院获得计算机科学专业哲学博士学位。2018年11月以“优秀博士D1”引进到宁波大学信息科学与工程学院计算机系工作。获得2012-2014澳门大学研究生全额奖学金，2014澳门大学杰出毕业生，2015 -2018澳门大学博士生全额奖学金，2020年乐歌教师创新奖励基金，2020年宁波大学优秀班主任，17届华为杯研究生数学竞赛一等奖指导老师（TOP 1.38%），SPDE2020国际会议Best Student Paper指导老师。主要研究方向包括统计图像建模和处理、多媒体取证和安全以及计算摄影学。近5年来在国际期刊和会议上发表/接受论文20余篇，其中IEEE Transactions on Image Processing期刊一作3篇。申请国家发明专利9项，美国授权专利1项。担任IEEE TIP, TCSVT, TIFS, TMM, SP, JCVIR等国际权威SCI期刊审稿人。
