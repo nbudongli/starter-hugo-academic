@@ -17,7 +17,7 @@ organizations:
 bio: 多媒体安全与取证 , 统计图像处理.
 
 # Interests to show in About widget
-interests:
+interests是:
 - 多媒体安全与取证
 - 统计图像处理
 - 对抗攻击与防御
