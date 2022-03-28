@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: 博士-计算机科学与技术
+  - course: 工学博士-计算机科学与技术
     institution: 澳门大学 科技学院
     year: 2018
-  - course: 硕士-软件工程
+  - course: 工学硕士-软件工程
     institution: 澳门大学 科技学院
     year: 2014
-  - course: 学士-软件工程
+  - course: 工学学士-软件工程
     institution: 重庆大学 软件学院
     year: 2012
 
