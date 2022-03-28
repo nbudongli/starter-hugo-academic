@@ -1,5 +1,5 @@
 ---
-title:buxinghhhhh
+title:Effective and Fast Estimation for Image Sensor Noise via Constrained Weighted Least Squares
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
