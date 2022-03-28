@@ -22,7 +22,7 @@ interests:
 - 信息安全与取证(Information security and forensics)
 
 # Education to show in About widget
-教育经历:
+education:
   courses:
   - course: 博士-计算机科学与技术
     institution: 澳门大学 科技学院

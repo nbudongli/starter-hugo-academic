@@ -23,7 +23,7 @@ interests:
 - 对抗攻击与防御
 
 # Education to show in About widget
-教育经历:
+education:
   courses:
   - course: 博士-计算机科学与技术
     institution: 澳门大学 科技学院
