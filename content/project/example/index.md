@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: 面向屏幕拍摄的鲁棒图像水印设计与应用
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
